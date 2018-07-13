@@ -25,5 +25,8 @@
     "psr-4": {
       "Magestore\\Bannerslider\\": ""
     }
-  }
+  },
+   "replace": { 
+        "magestore/module-bannerslider": "self.version" 
+    } 
 }
